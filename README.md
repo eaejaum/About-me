@@ -12,7 +12,7 @@
 </div>
     <br>
 <div style="display: inline_block">
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/000000/js.png" alt="js"/>
+  <img width="48" height="48" src="https://icons8.com.br/icon/tGvHBPJaKqEd/javascript" alt="js"/>
 </div>
 
 ###

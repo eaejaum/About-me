@@ -15,7 +15,8 @@
   <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/>
+  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/>
+  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/>
 </div>
 
 ###

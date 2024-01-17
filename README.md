@@ -12,10 +12,7 @@
 </div>
     <br>
 <div style="display: inline_block">
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript"/>
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/000000/html-5.png" alt="html-5"/>  <img align="center" alt="Vane-Js" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white.svg">
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/css3.png" alt="css3"/>
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/000000/js.png" alt="js"/>
 </div>
 
 ###

@@ -15,6 +15,7 @@
   <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="javascript-logo"/>
 </div>
 
 ###

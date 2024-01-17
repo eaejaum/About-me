@@ -17,6 +17,8 @@
   <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <br>
   <p>TESTE</p> <br>
   <img width="64" height="64" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/html-5.png" alt="html-5"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
 </div>
 
 ###
